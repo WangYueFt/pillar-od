@@ -29,9 +29,9 @@ If you find this repo useful for your research, please consider citing the paper
 
 ```
 @inproceedings{wang2020,
-      title={Pillar-based Object Detection for Autonomous Driving},
-      author={Wang, Yue and Fathi, Alireza and Kundu, Abhijit and Ross, David A. and Pantofaru, Caroline and Funkhouser, Thomas A. and Solomon, Justin M.},
-      booktitle={The European Conference on Computer Vision ({ECCV})},
-      year={2020}
-    }
+               title={Pillar-based Object Detection for Autonomous Driving},
+               author={Wang, Yue and Fathi, Alireza and Kundu, Abhijit and Ross, David A. and Pantofaru, Caroline and Funkhouser, Thomas A. and Solomon, Justin M.},
+               booktitle={The European Conference on Computer Vision ({ECCV})},
+               year={2020}
+}
 ```
